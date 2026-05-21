@@ -33,10 +33,3 @@ The PDF breaks down the deep learning syllabus across the following strategic mo
     *   *Core Concepts:* Comparative analysis of operational data batching methodologies, evaluating the structural trade-offs between memory footprints, computing speeds, and convergence trajectories[cite: 2].
 
 ---
-
-## 🎨 Architectural Visuals & Layout Specifications
-
-The document was compiled to standard `A4` page margins ($20\text{mm} \times 15\text{mm}$) using highly legible typography and includes two embedded high-fidelity vector diagrams:
-1.  **Figure 1 (Fully Connected Architecture):** Visual mapping of forward synaptic connection pathways streaming across input nodes, sequential deep hidden stacks, and output boundaries[cite: 2].
-2.  **Figure 2 (Mathematical Schema of a Neuron):** A technical look inside a node, tracing inputs through weight scaling vectors, the summation core ($\sum$), bias injections ($b$), and non-linear function filters ($f(z)$)[cite: 2].
-3.  **Accent Formatting:** Important warnings—such as dead weight adjustments—are highlighted inside high-contrast amber callout boxes (`#FFFAF0`) to facilitate quick review intervals[cite: 2].
